@@ -71,7 +71,7 @@
 <p>
   <a href="https://github.com/m-zebrak/m-zebrak">
     <img align="center" src="https://raw.githubusercontent.com/m-zebrak/github-stats-transparent/output/generated/overview.svg" alt="m-zebrak github stats" /> 
-    <img align="right" src="https://github.com/m-zebrak/github-stats-transparent/blob/output/generated/languages.svg" />
+    <img align="center" src="https://github.com/m-zebrak/github-stats-transparent/blob/output/generated/languages.svg" />
   </a> 
 </p>
   
@@ -89,10 +89,10 @@
 #
 
 <a href="https://github.com/m-zebrak/pygame-conways-game-of-life">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-zebrak&repo=pygame-conways-game-of-life&title_color=388bfd&text_color=778787&bg_color=00000000&border_color=141c1c"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-zebrak&repo=pygame-conways-game-of-life&title_color=4894e0&text_color=878787&bg_color=00000000&border_color=8B8B8B22"/>
 </a>
 <a href="https://github.com/m-zebrak/gminer-mining-statistics-monitor">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=m-zebrak&repo=gminer-mining-statistics-monitor&title_color=388bfd&text_color=778787&bg_color=00000000&border_color=141c1c"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=m-zebrak&repo=gminer-mining-statistics-monitor&title_color=4894e0&text_color=878787&bg_color=00000000&border_color=8B8B8B22"/>
 </a>
 
 
