@@ -2,10 +2,26 @@
 
 <a href="https://github.com/m-zebrak" target="_blank"><img src="https://img.shields.io/badge/ABOUT%20ME:-%23000000.svg?style=for-the-badge" alt="About me"></a>
 
+```python
+class SoftwareDeveloper(Engineer):
+    def __init__(self):
+        self.name = "Mateusz Żebrak"
+        self.languages = ["pl_PL", "en_US"]
+        degree = StudyField(name="Bachelor of Computer Science")
+        degree.specialization = "Software engineering"
+    def say_hi(self):
+        print("Thanks for stopping by, hope you find some of my repos interesting!")
+        
+mat = SoftwareDeveloper()
+mat.say_hi()
+```
+
 - 🔭 I’m currently working on _**my degree**_.
 - 🌱 I’m currently learning _**everything**_ 🤣.
 - 🤔 I’m looking for help with _**finding some student internship**_.
 - 📫 How to reach me: _**git.mzebrak@gmail.com**_
+
+
 
 <br />
 
