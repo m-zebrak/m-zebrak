@@ -68,8 +68,11 @@
 >  </p> 
 </details>
 
-| <a href="https://github.com/m-zebrak/m-zebrak"><img align="center" src="https://github-readme-stats.vercel.app/api?username=m-zebrak&show_icons=true&count_private=true&theme=buefy&hide_border=true" alt="m-zebrak github stats" /></a> | <a href="https://github.com/m-zebrak/m-zebrak"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-zebrak&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<a href="https://github.com/m-zebrak/m-zebrak">
+  <img align="center" src="https://raw.githubusercontent.com/m-zebrak/github-stats-transparent/output/generated/overview.svg" alt="m-zebrak github stats" /> 
+  <img align="center" src="https://github.com/m-zebrak/github-stats-transparent/blob/output/generated/languages.svg" />
+</a> 
+
 
 <br />
 
@@ -86,10 +89,10 @@
 #
 
 <a href="https://github.com/m-zebrak/pygame-conways-game-of-life">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-zebrak&repo=pygame-conways-game-of-life&theme=buefy"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-zebrak&repo=pygame-conways-game-of-life&title_color=4F8CC9&bg_color=00000000&border_color=161b22"/>
 </a>
 <a href="https://github.com/m-zebrak/gminer-mining-statistics-monitor">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=m-zebrak&repo=gminer-mining-statistics-monitor&theme=buefy"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=m-zebrak&repo=gminer-mining-statistics-monitor&title_color=4F8CC9&bg_color=00000000&border_color=161b22"/>
 </a>
 
 
