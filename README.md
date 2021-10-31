@@ -86,7 +86,7 @@
 ***
 
 <a href="https://github.com/m-zebrak/pygame-conways-game-of-life">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=m-zebrak&repo=pygame-conways-game-of-life&theme=buefy"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-zebrak&repo=pygame-conways-game-of-life&theme=buefy"/>
 </a>
 <a href="https://github.com/m-zebrak/gminer-mining-statistics-monitor">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=m-zebrak&repo=gminer-mining-statistics-monitor&theme=buefy"/>
