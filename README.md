@@ -13,7 +13,7 @@ class SoftwareDeveloper:
         self.strengths = ['creativity', 'perseverance', 'meticulousness']
 
     def __str__(self):
-        return f'{self.name}: {self.degree} in {self.specialization}, {self.languages}, {self.hobbies}, {self.strenghts}'
+        return f'{self.name}: {self.degree} in {self.specialization}, {self.languages}'
 
     @staticmethod
     def say_hi():
