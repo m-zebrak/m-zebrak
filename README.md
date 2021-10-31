@@ -37,8 +37,6 @@
 >    <a href="https://github.com/m-zebrak" target="_blank"><img alt="jQuery" height="22px" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/></a>
 >  </p>
     
-  <br />
-    
   <a href="https://github.com/m-zebrak" target="_blank"><img src="https://img.shields.io/badge/DATABASES:-%230167ff.svg?style=for-the-badge"></a>
 
 >  <p>
@@ -47,8 +45,6 @@
 >    <a href="https://github.com/m-zebrak" target="_blank"><img alt="Oracle" height="22px" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/></a>
 >    <a href="https://github.com/m-zebrak" target="_blank"><img alt="SQLite" height="22px" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
 >  </p>
-    
-  <br />
     
   <a href="https://github.com/m-zebrak" target="_blank"><img src="https://img.shields.io/badge/IDES:-%23e53935.svg?style=for-the-badge" alt="IDES:"></a>
     
@@ -59,8 +55,6 @@
 >    <a href="https://github.com/m-zebrak" target="_blank"><img alt="Visual Studio Code" height="22px" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
 >  </p> 
  
-  <br /> 
-    
   <a href="https://github.com/m-zebrak" target="_blank"><img src="https://img.shields.io/badge/OTHERS:-%23607D8B.svg?style=for-the-badge" alt="OTHERS:"></a>
     
 >  <p>
