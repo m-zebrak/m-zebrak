@@ -4,9 +4,19 @@
 - 🤔 I’m looking for help with _**finding some student internship**_.
 - 📫 How to reach me: _**git.mzebrak@gmail.com**_
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-zebrak&show_icons=true&theme=radical&count_private=true)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m-zebrak&repo=gminer-mining-statistics-monitor)](https://github.com/m-zebrak/gminer-mining-statistics-monitor)
+<a href="https://github.com/m-zebrak/m-zebrak">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-zebrak&layout=compact&theme=radical" />
+</a>
+<a href="https://github.com/m-zebrak/m-zebrak">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=m-zebrak&show_icons=true&theme=radical&count_private=true" />
+</a>
+
+<details>
+  <summary>:zap: Recent Github Activity</summary>
+
+<!--START_SECTION:activity-->
+</details>
 
 
 <!--
