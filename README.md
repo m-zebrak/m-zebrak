@@ -6,7 +6,7 @@
 
 
 <a href="https://github.com/m-zebrak/m-zebrak">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-zebrak&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-zebrak&layout=compact&theme=radical" />
 </a>
 <a href="https://github.com/m-zebrak/m-zebrak">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=m-zebrak&show_icons=true&theme=radical&count_private=true" />
