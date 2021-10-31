@@ -3,17 +3,28 @@
 <a href="https://github.com/m-zebrak" target="_blank"><img src="https://img.shields.io/badge/ABOUT%20ME:-%23000000.svg?style=for-the-badge" alt="About me"></a>
 
 ```python
-class SoftwareDeveloper(Engineer):
+class SoftwareDeveloper:
     def __init__(self):
-        self.name = "Mateusz Żebrak"
-        self.languages = ["pl_PL", "en_US"]
-        degree = StudyField(name="Bachelor of Computer Science")
-        degree.specialization = "Software engineering"
-    def say_hi(self):
-        print("Thanks for stopping by, hope you find some of my repos interesting!")
-        
-mat = SoftwareDeveloper()
-mat.say_hi()
+        self.name = 'Mateusz Żebrak'
+        self.languages = ['pl_PL', 'en_US']
+        self.degree = 'Bachelor of Computer Science'
+        self.specialization = 'Software engineering'
+        self.hobbies = ['blockchain', 'electronics', 'snowboard', 'automotive']
+        self.strengths = ['creativity', 'perseverance', 'meticulousness']
+
+    def __str__(self):
+        return f'{self.name}: {self.degree} in {self.specialization}, {self.languages}, {self.hobbies}, {self.strenghts}'
+
+    @staticmethod
+    def say_hi():
+        print("Hi! Thanks for stopping by, hope you find some of my repos interesting.")
+
+
+if __name__ == '__main__':
+    mat = SoftwareDeveloper()
+    print(mat)
+    mat.say_hi()
+
 ```
 
 - 🔭 I’m currently working on _**my degree**_.
