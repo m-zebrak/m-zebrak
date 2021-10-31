@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hi there! <img src="wave.gif" width="30px"></h1>
 
 <a href="https://github.com/m-zebrak" target="_blank"><img src="https://img.shields.io/badge/ABOUT%20ME:-%23000000.svg?style=for-the-badge" alt="About me"></a>
 
