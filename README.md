@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with _**finding some student internship**_.
 - 📫 How to reach me: _**git.mzebrak@gmail.com**_
 
-| <a href="https://github.com/m-zebrak/m-zebrak"><img align="center" src="https://github-readme-stats.vercel.app/api?username=m-zebrak&show_icons=true&count_private=true&include_all_commits=true&theme=buefy&hide_border=true" alt="m-zebrak github stats" /></a> | <a href="https://github.com/m-zebrak/m-zebrak"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-zebrak&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/m-zebrak/m-zebrak"><img align="center" src="https://github-readme-stats.vercel.app/api?username=m-zebrak&show_icons=true&count_private=true&theme=buefy&hide_border=true" alt="m-zebrak github stats" /></a> | <a href="https://github.com/m-zebrak/m-zebrak"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-zebrak&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <br />
@@ -25,7 +25,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-zebrak&repo=pygame-conways-game-of-life&theme=bue" />
 </a>
 <a href="https://github.com/m-zebrak/gminer-mining-statistics-monitor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-zebrak&repo=gminer-mining-statistics-monitor&theme=bue" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=m-zebrak&repo=gminer-mining-statistics-monitor&theme=bue" />
 </a>
 
 
