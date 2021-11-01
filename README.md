@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! <img src="wave.gif" width="30px"></h1>
+<div align="center"><img align="center" src="hi.gif"></div>
 
 <p align="right">
    <a href="mailto:git.mzebrak@gmail.com?subject=Hello%20Mat,%20from%20your%20GitHub%20page"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a> 
