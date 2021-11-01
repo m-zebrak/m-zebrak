@@ -1,5 +1,10 @@
 <h1 align="center">Hi there! <img src="wave.gif" width="30px"></h1>
 
+<p align="right">
+   <a href="mailto:git.mzebrak@gmail.com?subject=Hello%20Mat,%20from%20your%20GitHub%20page"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a> 
+   <a href="https://github.com/m-zebrak/m-zebrak/issues"><img src="https://img.shields.io/badge/github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
 <a href="https://github.com/m-zebrak" target="_blank"><img src="https://img.shields.io/badge/ABOUT%20ME:-%23000000.svg?style=for-the-badge" alt="About me"></a>
 
 ```python
@@ -9,7 +14,7 @@ class SoftwareDeveloper:
         self.languages = ['pl_PL', 'en_US']
         self.degree = 'Bachelor of Computer Science'
         self.specialization = 'Software engineering'
-        self.hobbies = ['blockchain', 'electronics', 'snowboard', 'automotive']
+        self.interests = ['blockchain', 'electronics', 'snowboard', 'automotive']
         self.strengths = ['creativity', 'perseverance', 'meticulousness']
 
     def __str__(self):
@@ -30,15 +35,12 @@ if __name__ == '__main__':
 - 🔭 I’m currently working on _**my degree**_.
 - 🌱 I’m currently learning _**everything**_ 🤣.
 - 🤔 I’m looking for help with _**finding some student internship**_.
-- 📫 How to reach me: _**git.mzebrak@gmail.com**_
-
-
 
 <br />
 
 <a href="https://github.com/m-zebrak" target="_blank"><img src="https://img.shields.io/badge/PROGRAMMING%20LANGUAGES:-%23008080.svg?style=for-the-badge"></a>
 
-><p>
+> <p>
 >  <a href="https://github.com/m-zebrak" target="_blank"><img alt="Java" height="22px" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/></a>
 >  <a href="https://github.com/m-zebrak" target="_blank"><img alt="Kotlin" height="22px" src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"/></a>
 >  <a href="https://github.com/m-zebrak" target="_blank"><img alt="Python" height="22px" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>
@@ -47,24 +49,24 @@ if __name__ == '__main__':
 >  <a href="https://github.com/m-zebrak" target="_blank"><img alt="HTML5" height="22px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
 >  <a href="https://github.com/m-zebrak" target="_blank"><img alt="CSS3" height="22px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a>
 >  <a href="https://github.com/m-zebrak" target="_blank"><img alt="Shell Script" height="22px" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/></a>
-></p>
+> </p>
 
 
 <details>
   <summary>
     💻 <b>>More of my tech stack<</b>
   </summary>
-    
+
   <br />
-    
-  <a href="https://github.com/m-zebrak" target="_blank"><img src="https://img.shields.io/badge/FRAMEWORKS:-%23673AB7.svg?style=for-the-badge"></a>
-    
+
+<a href="https://github.com/m-zebrak" target="_blank"><img src="https://img.shields.io/badge/FRAMEWORKS:-%23673AB7.svg?style=for-the-badge"></a>
+
 >  <p>
 >    <a href="https://github.com/m-zebrak" target="_blank"><img alt="Spring" height="22px" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/></a>
 >    <a href="https://github.com/m-zebrak" target="_blank"><img alt="jQuery" height="22px" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/></a>
 >  </p>
-    
-  <a href="https://github.com/m-zebrak" target="_blank"><img src="https://img.shields.io/badge/DATABASES:-%230167ff.svg?style=for-the-badge"></a>
+
+<a href="https://github.com/m-zebrak" target="_blank"><img src="https://img.shields.io/badge/DATABASES:-%230167ff.svg?style=for-the-badge"></a>
 
 >  <p>
 >    <a href="https://github.com/m-zebrak" target="_blank"><img alt="MicrosoftSQLServer" height="22px" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/></a>
@@ -72,18 +74,18 @@ if __name__ == '__main__':
 >    <a href="https://github.com/m-zebrak" target="_blank"><img alt="Oracle" height="22px" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/></a>
 >    <a href="https://github.com/m-zebrak" target="_blank"><img alt="SQLite" height="22px" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
 >  </p>
-    
-  <a href="https://github.com/m-zebrak" target="_blank"><img src="https://img.shields.io/badge/IDES:-%23e53935.svg?style=for-the-badge" alt="IDES:"></a>
-    
+
+<a href="https://github.com/m-zebrak" target="_blank"><img src="https://img.shields.io/badge/IDES:-%23e53935.svg?style=for-the-badge" alt="IDES:"></a>
+
 >  <p>
 >    <a href="https://github.com/m-zebrak" target="_blank"><img alt="IntelliJ IDEA" height="22px" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/></a>
 >    <a href="https://github.com/m-zebrak" target="_blank"><img alt="PyCharm" height="22px" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/></a>
 >    <a href="https://github.com/m-zebrak" target="_blank"><img alt="Jupyter Notebook" height="22px" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/></a>
 >    <a href="https://github.com/m-zebrak" target="_blank"><img alt="Visual Studio Code" height="22px" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
 >  </p> 
- 
-  <a href="https://github.com/m-zebrak" target="_blank"><img src="https://img.shields.io/badge/OTHERS:-%23607D8B.svg?style=for-the-badge" alt="OTHERS:"></a>
-    
+
+<a href="https://github.com/m-zebrak" target="_blank"><img src="https://img.shields.io/badge/OTHERS:-%23607D8B.svg?style=for-the-badge" alt="OTHERS:"></a>
+
 >  <p>
 >    <a href="https://github.com/m-zebrak" target="_blank"><img alt="Docker" height="22px" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/></a>
 >    <a href="https://github.com/m-zebrak" target="_blank"><img alt="Jira" height="22px" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/></a>
@@ -98,28 +100,34 @@ if __name__ == '__main__':
 <p>
   <a href="https://github.com/m-zebrak/m-zebrak">
     <img align="center" src="https://raw.githubusercontent.com/m-zebrak/github-stats-transparent/output/generated/overview.svg" alt="m-zebrak github stats" /> 
-    <img align="center" src="https://github.com/m-zebrak/github-stats-transparent/blob/output/generated/languages.svg" />
+    <img align="right" src="https://raw.githubusercontent.com/m-zebrak/github-stats-transparent/output/generated/languages.svg" alt="languages"/>
   </a> 
 </p>
-  
+
 
 <details>
   <summary>
     ⚡ <b>>Recent Github Activity<</b>
   </summary>
 
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/m-zebrak/m-zebrak/issues/1) in [m-zebrak/m-zebrak](https://github.com/m-zebrak/m-zebrak)
-<!--END_SECTION:activity-->
+   <!--START_SECTION:activity-->
+
+   1. ❗️ Closed issue [#1](https://github.com/m-zebrak/m-zebrak/issues/1)
+      in [m-zebrak/m-zebrak](https://github.com/m-zebrak/m-zebrak)
+
+   <!--END_SECTION:activity-->
+
 </details>
 
 #
 
-<a href="https://github.com/m-zebrak/pygame-conways-game-of-life">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-zebrak&repo=pygame-conways-game-of-life&title_color=4894e0&text_color=878787&bg_color=00000000&border_color=8B8B8B22"/>
-</a>
-<a href="https://github.com/m-zebrak/gminer-mining-statistics-monitor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=m-zebrak&repo=gminer-mining-statistics-monitor&title_color=4894e0&text_color=878787&bg_color=00000000&border_color=8B8B8B22"/>
-</a>
+<p>
+   <a href="https://github.com/m-zebrak/pygame-conways-game-of-life">
+     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-zebrak&repo=pygame-conways-game-of-life&title_color=4894e0&text_color=878787&bg_color=00000000&border_color=8B8B8B22"/>
+   </a>
+   <a href="https://github.com/m-zebrak/gminer-mining-statistics-monitor">
+     <img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=m-zebrak&repo=gminer-mining-statistics-monitor&title_color=4894e0&text_color=878787&bg_color=00000000&border_color=8B8B8B22"/>
+   </a>
+</p>
 
 
