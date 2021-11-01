@@ -112,8 +112,8 @@ if __name__ == '__main__':
 
    <!--START_SECTION:activity-->
 
-   1. ❗️ Closed issue [#1](https://github.com/m-zebrak/m-zebrak/issues/1)
-      in [m-zebrak/m-zebrak](https://github.com/m-zebrak/m-zebrak)
+1. ❗️ Closed issue [#1](https://github.com/m-zebrak/m-zebrak/issues/1) in [m-zebrak/m-zebrak](https://github.com/m-zebrak/m-zebrak)
+2. ❗️ Opened issue [#1](https://github.com/m-zebrak/m-zebrak/issues/1) in [m-zebrak/m-zebrak](https://github.com/m-zebrak/m-zebrak)
 
    <!--END_SECTION:activity-->
 
