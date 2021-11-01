@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;500&display=swap');
+
+body {
+    --first_size: 40px;
+    --second_size: 15px;
+    --fam: 'Roboto', sans-serif;;
+}
+
+.typed-cursor {
+    display: none;
+}
+
+.wrap {
+    height: 140px;
+    width: 822px;
+    background-image: url("images/network.gif");
+    background-size: 822px;
+    background-position-y: -1px;
+    position: relative;
+    margin-top: 5%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.wrap::before {
+    content: '';
+    position: absolute;
+    inset: -20px;
+    border: 1px solid black;
+}
+
+.line {
+    font-family: var(--fam);
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#first {
+    font-size: var(--first_size);
+    font-weight: 500;
+    letter-spacing: 3px;
+    top: 50%;
+    white-space: nowrap;
+}
+
+#second {
+    font-size: var(--second_size);
+    font-weight: 300;
+    letter-spacing: 2px;
+    top: 80%;
+
+}
+
+#first::after, #second::after {
+    content: '|';
+    animation: typedjsBlink 0.5s infinite;;
+}
