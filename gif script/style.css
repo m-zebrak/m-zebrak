@@ -4,6 +4,7 @@ body {
     --first_size: 40px;
     --second_size: 15px;
     --fam: 'Roboto', sans-serif;;
+    text-shadow: 2px 2px rgb(212, 212, 212);
 }
 
 .typed-cursor {
@@ -13,9 +14,6 @@ body {
 .wrap {
     height: 140px;
     width: 822px;
-    background-image: url("images/network.gif");
-    background-size: 822px;
-    background-position-y: -1px;
     position: relative;
     margin-top: 5%;
     left: 50%;
@@ -34,6 +32,21 @@ body {
     position: absolute;
     left: 50%;
     transform: translate(-50%, -50%);
+    background: rgba(255, 255, 255, .4);
+}
+
+.video-wrap {
+    background: rgba(255, 255, 255, .3);
+    height: 100%;
+    overflow: hidden;
+    position: relative; /* Comment when positioning */
+}
+
+#background-video {
+    position: absolute;
+    top: -150%;
+    left: -30%;
+    z-index: -1;
 }
 
 #first {
@@ -49,7 +62,6 @@ body {
     font-weight: 300;
     letter-spacing: 2px;
     top: 80%;
-
 }
 
 #first::after, #second::after {

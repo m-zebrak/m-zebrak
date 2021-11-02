@@ -1,8 +1,8 @@
-<div align="center"><img align="center" src="hi.gif"></div>
+<div align="center"><img align="center" src="welcome_60fps_100.gif" alt="Welcome"/></div>
 
 <p align="right">
-   <a href="mailto:git.mzebrak@gmail.com?subject=Hello%20Mat,%20from%20your%20GitHub%20page"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a> 
-   <a href="https://github.com/m-zebrak/m-zebrak/issues"><img src="https://img.shields.io/badge/github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+   <a href="mailto:git.mzebrak@gmail.com?subject=Hello%20Mat,%20from%20your%20GitHub%20page"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a> 
+   <a href="https://github.com/m-zebrak/m-zebrak/issues"><img src="https://img.shields.io/badge/github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
 </p>
 
 <a href="https://github.com/m-zebrak" target="_blank"><img src="https://img.shields.io/badge/ABOUT%20ME:-%23000000.svg?style=for-the-badge" alt="About me"></a>
@@ -123,10 +123,12 @@ if __name__ == '__main__':
 
 <p>
    <a href="https://github.com/m-zebrak/pygame-conways-game-of-life">
-     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-zebrak&repo=pygame-conways-game-of-life&title_color=4894e0&text_color=878787&bg_color=00000000&border_color=8B8B8B22"/>
+     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?
+username=m-zebrak&repo=pygame-conways-game-of-life&title_color=4894e0&text_color=878787&bg_color=00000000&border_color=8B8B8B22" alt="project 1"/>
    </a>
    <a href="https://github.com/m-zebrak/gminer-mining-statistics-monitor">
-     <img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=m-zebrak&repo=gminer-mining-statistics-monitor&title_color=4894e0&text_color=878787&bg_color=00000000&border_color=8B8B8B22"/>
+     <img align="right" src="https://github-readme-stats.vercel.app/api/pin?
+username=m-zebrak&repo=gminer-mining-statistics-monitor&title_color=4894e0&text_color=878787&bg_color=00000000&border_color=8B8B8B22" alt="project 2"/>
    </a>
 </p>
 
