@@ -12,13 +12,13 @@ class SoftwareDeveloper:
     def __init__(self):
         self.name = 'Mateusz Żebrak'
         self.languages = ['pl_PL', 'en_US']
-        self.degree = 'Bachelor of Computer Science'
+        self.degree = 'Bachelor of Engineering in Computer Science'
         self.specialization = 'Software engineering'
         self.interests = ['blockchain', 'electronics', 'snowboard', 'automotive']
         self.strengths = ['creativity', 'perseverance', 'meticulousness']
 
     def __str__(self):
-        return f'{self.name}: {self.degree} in {self.specialization}, {self.languages}'
+        return f'{self.name}: {self.degree}, spec. {self.specialization}, {self.languages}'
 
     @staticmethod
     def say_hi():
