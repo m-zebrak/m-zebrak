@@ -123,10 +123,10 @@ if __name__ == '__main__':
 
 <p>
    <a href="https://github.com/m-zebrak/pygame-conways-game-of-life">
-     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-zebrak&repo=pygame-conways-game-of-life&title_color=4894e0&text_color=878787&bg_color=00000000&border_color=8B8B8B22" alt="project 1"/>
+     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mzebrak&repo=pygame-conways-game-of-life&title_color=4894e0&text_color=878787&bg_color=00000000&border_color=8B8B8B22" alt="project 1"/>
    </a>
    <!--<a href="https://github.com/m-zebrak/gminer-mining-statistics-monitor">
-     <img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=m-zebrak&repo=gminer-mining-statistics-monitor&title_color=4894e0&text_color=878787&bg_color=00000000&border_color=8B8B8B22" alt="project 2"/>
+     <img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=mzebrak&repo=gminer-mining-statistics-monitor&title_color=4894e0&text_color=878787&bg_color=00000000&border_color=8B8B8B22" alt="project 2"/>
    </a> -->
 </p>
 
