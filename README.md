@@ -89,11 +89,12 @@ if __name__ == '__main__':
 <a href="https://github.com/m-zebrak" target="_blank"><img src="https://img.shields.io/badge/OTHERS:-%23607D8B.svg?style=for-the-badge" alt="OTHERS:"></a>
 
 >  <p>
->    <a href="https://github.com/m-zebrak" target="_blank"><img alt="VIM" height="22px" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"/></a>
 >    <a href="https://github.com/m-zebrak" target="_blank"><img alt="Git" height="22px" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/></a>
 >    <a href="https://github.com/m-zebrak" target="_blank"><img alt="GitLab" height="22px" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
 >    <a href="https://github.com/m-zebrak" target="_blank"><img alt="GitLab CI" height="22px" src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
+>    <a href="https://github.com/m-zebrak" target="_blank"><img alt="Ubuntu" height="22px" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></a>
 >    <a href="https://github.com/m-zebrak" target="_blank"><img alt="Docker" height="22px" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/></a>
+>    <a href="https://github.com/m-zebrak" target="_blank"><img alt="VIM" height="22px" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"/></a>
 >    <a href="https://github.com/m-zebrak" target="_blank"><img alt="Jira" height="22px" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/></a>
 >    <a href="https://github.com/m-zebrak" target="_blank"><img alt="Postman" height="22px" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/></a>
 >    <a href="https://github.com/m-zebrak" target="_blank"><img alt="Arduino" height="22px" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/></a>
