@@ -127,8 +127,11 @@ if __name__ == '__main__':
 #
 
 <p>
-   <a href="https://github.com/m-zebrak/pygame-conways-game-of-life">
-     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mzebrak&repo=pygame-conways-game-of-life&title_color=4894e0&text_color=878787&bg_color=00000000&border_color=8B8B8B22" alt="project 1"/>
+   <a href="https://github.com/mzebrak/steam-deals-backend">
+     <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=mzebrak&repo=steam-deals-backend&title_color=4894e0&text_color=878787&bg_color=00000000&border_color=8B8B8B22" alt="project 1"/>
+   </a>
+   <a href="https://github.com/mzebrak/pygame-conways-game-of-life">
+     <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mzebrak&repo=pygame-conways-game-of-life&title_color=4894e0&text_color=878787&bg_color=00000000&border_color=8B8B8B22" alt="project 2"/>
    </a>
    <!--<a href="https://github.com/m-zebrak/gminer-mining-statistics-monitor">
      <img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=mzebrak&repo=gminer-mining-statistics-monitor&title_color=4894e0&text_color=878787&bg_color=00000000&border_color=8B8B8B22" alt="project 2"/>
