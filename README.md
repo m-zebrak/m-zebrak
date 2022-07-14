@@ -117,8 +117,8 @@ if __name__ == '__main__':
 
    <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#1](https://github.com/mzebrak/vrsc-hellminer-launcher/pull/1) in [mzebrak/vrsc-hellminer-launcher](https://github.com/mzebrak/vrsc-hellminer-launcher)
-2. ❗️ Opened issue [#728](https://github.com/rochacbruno/dynaconf/issues/728) in [rochacbruno/dynaconf](https://github.com/rochacbruno/dynaconf)
+1. ❗️ Opened issue [#796](https://github.com/taverntesting/tavern/issues/796) in [taverntesting/tavern](https://github.com/taverntesting/tavern)
+2. ❌ Closed PR [#1](https://github.com/mzebrak/vrsc-hellminer-launcher/pull/1) in [mzebrak/vrsc-hellminer-launcher](https://github.com/mzebrak/vrsc-hellminer-launcher)
 
    <!--END_SECTION:activity-->
 
