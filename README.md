@@ -117,8 +117,8 @@ if __name__ == '__main__':
 
    <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#796](https://github.com/taverntesting/tavern/issues/796) in [taverntesting/tavern](https://github.com/taverntesting/tavern)
-2. ❌ Closed PR [#1](https://github.com/mzebrak/vrsc-hellminer-launcher/pull/1) in [mzebrak/vrsc-hellminer-launcher](https://github.com/mzebrak/vrsc-hellminer-launcher)
+1. ❗️ Closed issue [#42](https://github.com/jwodder/versioningit/issues/42) in [jwodder/versioningit](https://github.com/jwodder/versioningit)
+2. 🗣 Commented on [#42](https://github.com/jwodder/versioningit/issues/42) in [jwodder/versioningit](https://github.com/jwodder/versioningit)
 
    <!--END_SECTION:activity-->
 
