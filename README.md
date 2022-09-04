@@ -21,7 +21,7 @@ class SoftwareDeveloper:
         return f'{self.name}: {self.degree}, spec. {self.specialization}, {self.languages}'
 
     @staticmethod
-    def say_hi():
+    def say_hi() -> None:
         print("Hi! Thanks for stopping by, hope you find some of my repos interesting.")
 
 
@@ -32,9 +32,8 @@ if __name__ == '__main__':
 
 ```
 
-- 🔭 I’m currently working on _**my degree**_.
-- 🌱 I’m currently learning _**everything**_ 🤣.
-- 🤔 I’m looking for help with _**finding some student internship**_.
+- 🔭 I’m currently working on _**[hive](https://github.com/openhive-network) development**_, _**bsc thesis**_.
+- 🌱 I’m currently learning _**Python & Angular development**_, _**clean code practices**_, _**TDD**_.
 
 <br />
 
@@ -42,28 +41,25 @@ if __name__ == '__main__':
 
 > <p>
 >  <a href="https://github.com/m-zebrak" target="_blank"><img alt="Python" height="22px" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>
->  <a href="https://github.com/m-zebrak" target="_blank"><img alt="Java" height="22px" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/></a>
->  <a href="https://github.com/m-zebrak" target="_blank"><img alt="C#" height="22px" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
 >  <a href="https://github.com/m-zebrak" target="_blank"><img alt="TypeScript" height="22px" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/></a>
 >  <a href="https://github.com/m-zebrak" target="_blank"><img alt="HTML5" height="22px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
 >  <a href="https://github.com/m-zebrak" target="_blank"><img alt="CSS3" height="22px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a>
 >  <a href="https://github.com/m-zebrak" target="_blank"><img alt="Shell Script" height="22px" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/></a>
 > </p>
 
-
 <details>
   <summary>
-    💻 <b>>More of my tech stack<</b>
+   💻 <b>>More of my tech stack<</b>
   </summary>
 
-  <br />
-
+<br />
+  
 <a href="https://github.com/m-zebrak" target="_blank"><img src="https://img.shields.io/badge/FRAMEWORKS:-%23673AB7.svg?style=for-the-badge"></a>
 
 >  <p>
 >    <a href="https://github.com/m-zebrak" target="_blank"><img alt="FastAPI" height="22px" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"></a>
+>    <a href="https://github.com/m-zebrak" target="_blank"><img alt="pytest" height="22px" src="https://img.shields.io/badge/Pytest-0066FF?style=for-the-badge&logo=pytest"></a>
 >    <a href="https://github.com/m-zebrak" target="_blank"><img alt="Plotly" height="22px" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"></a>
->    <a href="https://github.com/m-zebrak" target="_blank"><img alt="Spring" height="22px" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"></a>
 >    <a href="https://github.com/m-zebrak" target="_blank"><img alt="Angular" height="22px" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"></a>
 >  </p>
 
@@ -86,13 +82,18 @@ if __name__ == '__main__':
 >    <a href="https://github.com/m-zebrak" target="_blank"><img alt="Visual Studio Code" height="22px" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
 >  </p> 
 
-<a href="https://github.com/m-zebrak" target="_blank"><img src="https://img.shields.io/badge/OTHERS:-%23607D8B.svg?style=for-the-badge" alt="OTHERS:"></a>
+<a href="https://github.com/m-zebrak" target="_blank"><img src="https://img.shields.io/badge/FAMILIAR%20WITH:-%233C5280.svg?style=for-the-badge"></a>
+
+>  <a href="https://github.com/m-zebrak" target="_blank"><img alt="Java" height="22px" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/></a>
+>  <a href="https://github.com/m-zebrak" target="_blank"><img alt="C#" height="22px" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
+
+<a href="https://github.com/m-zebrak" target="_blank"><img src="https://img.shields.io/badge/OTHER:-%23607D8B.svg?style=for-the-badge" alt="OTHER:"></a>
 
 >  <p>
 >    <a href="https://github.com/m-zebrak" target="_blank"><img alt="Git" height="22px" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/></a>
 >    <a href="https://github.com/m-zebrak" target="_blank"><img alt="GitLab" height="22px" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
 >    <a href="https://github.com/m-zebrak" target="_blank"><img alt="GitLab CI" height="22px" src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
->    <a href="https://github.com/m-zebrak" target="_blank"><img alt="Ubuntu" height="22px" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></a>
+>    <a href="https://github.com/m-zebrak" target="_blank"><img alt="Linux" height="22px" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
 >    <a href="https://github.com/m-zebrak" target="_blank"><img alt="Docker" height="22px" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/></a>
 >    <a href="https://github.com/m-zebrak" target="_blank"><img alt="VIM" height="22px" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"/></a>
 >    <a href="https://github.com/m-zebrak" target="_blank"><img alt="Jira" height="22px" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/></a>
@@ -108,7 +109,6 @@ if __name__ == '__main__':
     <img align="right" src="https://raw.githubusercontent.com/m-zebrak/github-stats-transparent/output/generated/languages.svg" alt="languages"/>
   </a> 
 </p>
-
 
 <details>
   <summary>
