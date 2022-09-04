@@ -54,7 +54,7 @@ if __name__ == '__main__':
 
 <br />
   
-<a href="https://github.com/m-zebrak" target="_blank"><img src="https://img.shields.io/badge/FRAMEWORKS:-%23673AB7.svg?style=for-the-badge"></a>
+<a href="https://github.com/m-zebrak" target="_blank"><img src="https://img.shields.io/badge/FRAMEWORKS:-%23008080.svg?style=for-the-badge"></a>
 
 >  <p>
 >    <a href="https://github.com/m-zebrak" target="_blank"><img alt="FastAPI" height="22px" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"></a>
@@ -63,7 +63,7 @@ if __name__ == '__main__':
 >    <a href="https://github.com/m-zebrak" target="_blank"><img alt="Angular" height="22px" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"></a>
 >  </p>
 
-<a href="https://github.com/m-zebrak" target="_blank"><img src="https://img.shields.io/badge/DATABASES:-%230167ff.svg?style=for-the-badge"></a>
+<a href="https://github.com/m-zebrak" target="_blank"><img src="https://img.shields.io/badge/DATABASES:-%23008080.svg?style=for-the-badge"></a>
 
 >  <p>
 >    <a href="https://github.com/m-zebrak" target="_blank"><img alt="Postgres" height="22px" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
@@ -73,7 +73,7 @@ if __name__ == '__main__':
 >    <a href="https://github.com/m-zebrak" target="_blank"><img alt="SQLite" height="22px" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
 >  </p>
 
-<a href="https://github.com/m-zebrak" target="_blank"><img src="https://img.shields.io/badge/IDES:-%23e53935.svg?style=for-the-badge" alt="IDES:"></a>
+<a href="https://github.com/m-zebrak" target="_blank"><img src="https://img.shields.io/badge/IDES:-%23008080.svg?style=for-the-badge" alt="IDES:"></a>
 
 >  <p>
 >    <a href="https://github.com/m-zebrak" target="_blank"><img alt="PyCharm" height="22px" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/></a>
@@ -82,12 +82,12 @@ if __name__ == '__main__':
 >    <a href="https://github.com/m-zebrak" target="_blank"><img alt="Visual Studio Code" height="22px" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
 >  </p> 
 
-<a href="https://github.com/m-zebrak" target="_blank"><img src="https://img.shields.io/badge/FAMILIAR%20WITH:-%233C5280.svg?style=for-the-badge"></a>
+<a href="https://github.com/m-zebrak" target="_blank"><img src="https://img.shields.io/badge/FAMILIAR%20WITH:-%23008080.svg?style=for-the-badge"></a>
 
 >  <a href="https://github.com/m-zebrak" target="_blank"><img alt="Java" height="22px" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/></a>
 >  <a href="https://github.com/m-zebrak" target="_blank"><img alt="C#" height="22px" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
 
-<a href="https://github.com/m-zebrak" target="_blank"><img src="https://img.shields.io/badge/OTHER:-%23607D8B.svg?style=for-the-badge" alt="OTHER:"></a>
+<a href="https://github.com/m-zebrak" target="_blank"><img src="https://img.shields.io/badge/OTHER:-%23008080.svg?style=for-the-badge" alt="OTHER:"></a>
 
 >  <p>
 >    <a href="https://github.com/m-zebrak" target="_blank"><img alt="Git" height="22px" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/></a>
