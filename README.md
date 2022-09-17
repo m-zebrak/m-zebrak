@@ -117,8 +117,8 @@ if __name__ == '__main__':
 
    <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#42](https://github.com/jwodder/versioningit/issues/42) in [jwodder/versioningit](https://github.com/jwodder/versioningit)
-2. 🗣 Commented on [#42](https://github.com/jwodder/versioningit/issues/42) in [jwodder/versioningit](https://github.com/jwodder/versioningit)
+1. ❗️ Closed issue [#6546](https://github.com/python-poetry/poetry/issues/6546) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
+2. 🗣 Commented on [#6546](https://github.com/python-poetry/poetry/issues/6546) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
 
    <!--END_SECTION:activity-->
 
