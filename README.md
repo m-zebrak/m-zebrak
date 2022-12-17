@@ -117,8 +117,8 @@ if __name__ == '__main__':
 
    <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#6546](https://github.com/python-poetry/poetry/issues/6546) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
-2. 🗣 Commented on [#6546](https://github.com/python-poetry/poetry/issues/6546) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
+1. 🗣 Commented on [#8998](https://github.com/sqlalchemy/sqlalchemy/issues/8998) in [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy)
+2. 🗣 Commented on [#8998](https://github.com/sqlalchemy/sqlalchemy/issues/8998) in [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy)
 
    <!--END_SECTION:activity-->
 
