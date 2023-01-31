@@ -117,8 +117,8 @@ if __name__ == '__main__':
 
    <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#8998](https://github.com/sqlalchemy/sqlalchemy/issues/8998) in [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy)
-2. 🗣 Commented on [#8998](https://github.com/sqlalchemy/sqlalchemy/issues/8998) in [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy)
+1. 🗣 Commented on [#543](https://github.com/tiangolo/typer/issues/543) in [tiangolo/typer](https://github.com/tiangolo/typer)
+2. ❗️ Opened issue [#543](https://github.com/tiangolo/typer/issues/543) in [tiangolo/typer](https://github.com/tiangolo/typer)
 
    <!--END_SECTION:activity-->
 
