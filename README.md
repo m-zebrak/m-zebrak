@@ -117,8 +117,8 @@ if __name__ == '__main__':
 
    <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#524](https://github.com/tiangolo/typer/issues/524) in [tiangolo/typer](https://github.com/tiangolo/typer)
-2. 🗣 Commented on [#551](https://github.com/tiangolo/typer/issues/551) in [tiangolo/typer](https://github.com/tiangolo/typer)
+1. ❗️ Opened issue [#57](https://github.com/mtkennerly/dunamai/issues/57) in [mtkennerly/dunamai](https://github.com/mtkennerly/dunamai)
+2. 🗣 Commented on [#524](https://github.com/tiangolo/typer/issues/524) in [tiangolo/typer](https://github.com/tiangolo/typer)
 
    <!--END_SECTION:activity-->
 
