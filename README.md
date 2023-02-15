@@ -117,7 +117,7 @@ if __name__ == '__main__':
 
    <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#57](https://github.com/mtkennerly/dunamai/issues/57) in [mtkennerly/dunamai](https://github.com/mtkennerly/dunamai)
+1. ❗️ Opened issue [#1805](https://github.com/Textualize/textual/issues/1805) in [Textualize/textual](https://github.com/Textualize/textual)
 2. 🗣 Commented on [#57](https://github.com/mtkennerly/dunamai/issues/57) in [mtkennerly/dunamai](https://github.com/mtkennerly/dunamai)
 
    <!--END_SECTION:activity-->
