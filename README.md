@@ -117,8 +117,8 @@ if __name__ == '__main__':
 
    <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#296](https://github.com/tiangolo/typer/issues/296) in [tiangolo/typer](https://github.com/tiangolo/typer)
-2. 🗣 Commented on [#2121](https://github.com/Textualize/textual/issues/2121) in [Textualize/textual](https://github.com/Textualize/textual)
+1. ❗️ Opened issue [#14](https://github.com/darrenburns/textual-autocomplete/issues/14) in [darrenburns/textual-autocomplete](https://github.com/darrenburns/textual-autocomplete)
+2. 🗣 Commented on [#296](https://github.com/tiangolo/typer/issues/296) in [tiangolo/typer](https://github.com/tiangolo/typer)
 
    <!--END_SECTION:activity-->
 
