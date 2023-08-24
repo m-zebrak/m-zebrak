@@ -117,8 +117,8 @@ if __name__ == '__main__':
 
    <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#3146](https://github.com/Textualize/textual/issues/3146#issuecomment-1689693742) in [Textualize/textual](https://github.com/Textualize/textual)
-2. ❗ Opened issue [#3146](https://github.com/Textualize/textual/issues/3146) in [Textualize/textual](https://github.com/Textualize/textual)
+1. 🗣 Commented on [#3163](https://github.com/Textualize/textual/issues/3163#issuecomment-1691677914) in [Textualize/textual](https://github.com/Textualize/textual)
+2. ❗ Opened issue [#3163](https://github.com/Textualize/textual/issues/3163) in [Textualize/textual](https://github.com/Textualize/textual)
 
    <!--END_SECTION:activity-->
 
